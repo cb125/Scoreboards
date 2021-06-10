@@ -13,9 +13,13 @@ Explanatory relevance requires some kind of grounding, whether in actual psychol
 	Which of these complexities should be modelled within a linguistic theory?  A semantic theory? Why does it matter?  Which linguistic ‘weeds’ does it affect? 
 
 ## Course Expectations: 
-All participants must do the reading and post forum comment/question in advance of class. The post must discuss something you genuinely don’t understand, and should be anchored in a specific part of the text. (Not a fancy counterexample or a general rant.)
+* All participants must do the reading and post forum comment/question in advance of class. The post must discuss something you genuinely don’t understand, and should be anchored in a specific part of the text. (Not a fancy counterexample or a general rant.)
+* **Zoom stance**: The course is about in-person interaction. That said, zoom is not out of the question, under certain limited circumstances.
 
-**Work**: (1) research option: 25 page response paper; (2) non-research option: 6 page focussed point or squib; (3) auditors welcome (though they should do the reading.) The course is about in-person interaction. (Zoom is not out of the question, under certain circumstances.)
+**Work**: 
+* Research option: 25 page response paper
+* Non-research option: 6 page focussed point or squib
+* Auditors are welcome, and are expected to do the reading The course is about in-person interaction. (Zoom is not out of the question, under certain circumstances.)
 
 ## Course Schedule
 * January 19: @Rutgers. Intro 
