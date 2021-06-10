@@ -19,7 +19,7 @@ Explanatory relevance requires some kind of grounding, whether in actual psychol
 **Work**: 
 * Research option: 25 page response paper
 * Non-research option: 6 page focussed point or squib
-* Auditors are welcome, and are expected to do the reading The course is about in-person interaction. (Zoom is not out of the question, under certain circumstances.)
+* Auditors are welcome, and are expected to do the reading
 
 ## Course Schedule
 * January 19: @Rutgers. Intro 
