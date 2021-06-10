@@ -1,5 +1,4 @@
-# Scoreboards
-Keeping track of conversations: Scoreboards, Semantics and Psychology
+# Keeping track of conversations: Scoreboards, Semantics and Psychology
 
 Chris Barker, Liz Camp, and Andy Egan
 
