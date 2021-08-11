@@ -44,7 +44,7 @@ All participants must do the reading and post forum comment/question in advance 
   * Background: Gibbard 1990 [Wise choices, apt feelings](https://www.hup.harvard.edu/catalog.php?isbn=9780674953789) Harvard
   * Yalcin 2011 [Nonfactualism about epistemic modality](Papers/yalcin-2011-nonfactualism.pdf)
   * Yalcin 2012 [Bayesian expressivism](Papers/yalcin-2012-bayesian-expressivism.pdf)
-  * Austin: “Performative Utterances”
+  * Austin 1979 [1956] [Performative Utterances](Papers/austin-performative-utterances.pdf)
 * February 16 @Rutgers. Non-focal: from dynamic pragmatics to commitment & convention  
   * Readings: Brandom: “Assertion” 
   * (Rescorla/MacFarlane)
