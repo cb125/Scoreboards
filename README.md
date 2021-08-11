@@ -34,14 +34,15 @@ All participants must do the reading and post forum comment/question in advance 
 
 **Unit 1: Themes**
 * January 26 @NYU. Conversations as updates in possibilities
-  * Readings: Stalnaker 1978 [Assertion](Papers/stalnaker-assertion.pdf), Lewis 1979 [Scorekeeping](lewis-scorekeeping.pdf), Stalnaker 2014 [Chapter 1 of *Context*](Papers/stalnaker-2014-context-ch1.pdf)
+  * Readings: Stalnaker 1978 [Assertion](Papers/stalnaker-assertion.pdf), Lewis 1979 [Scorekeeping](Papers/lewis-scorekeeping.pdf), Stalnaker 2014 [Chapter 1 of *Context*](Papers/stalnaker-2014-context-ch1.pdf)
 * February 2 @Rutgers. Flatness; from instrumentalism to psychological realism. 
   * Readings: AE & TS manifesto
   * Perry 1998 [Cognitive significance and new theories of reference](Papers/perry-1998-cognitive-significance.pdf)
 * February 9 @NYU. Non-truth: 1) expressives: from informationalism to ecumenical psychologism. 2) Performatives: from psychology to speech acts 
-  * Readings: 
-    * Gibbard: expressivism (Yalcin?),
-		* ? (Austin: “Performative Utterances”?)
+  * Background: Gibbard 1990 [Wise choices, apt feelings](https://www.hup.harvard.edu/catalog.php?isbn=9780674953789) Harvard
+  * Yalcin 2011 [Nonfactualism about epistemic modals](Papers/yalcin-2011-nonfactualism.pdf)
+  * Yalcin 2012 [Baysean expressivism](Papers/yalcin-2012-Baysean-expressivism.pdf)
+  * Austin: “Performative Utterances”
 * February 16 @Rutgers. Non-focal: from dynamic pragmatics to commitment & convention  
   * Readings: Brandom: “Assertion” 
   * (Rescorla/MacFarlane)
