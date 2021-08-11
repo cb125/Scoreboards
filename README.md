@@ -37,7 +37,7 @@ All participants must do the reading and post forum comment/question in advance 
   * Readings: Stalnaker “Assertion”, Lewis “Scorekeeping…”, Ch1 of Stalnaker *Context*
 * February 2 @Rutgers. Flatness; from instrumentalism to psychological realism. 
   * Readings: AE & TS manifesto
-  * Perry, *Cognitive significance and new theories of reference*
+  * Perry 1998 [Cognitive significance and new theories of reference](Papers/perry-1998-cognitive-significance.pdf)
 * February 9 @NYU. Non-truth: 1) expressives: from informationalism to ecumenical psychologism. 2) Performatives: from psychology to speech acts 
   * Readings: 
     * Gibbard: expressivism (Yalcin?),
