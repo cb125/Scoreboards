@@ -1,6 +1,6 @@
 # Keeping track of conversations: Scoreboards, Semantics and Psychology
 
-Chris Barker, Liz Camp, and Andy Egan
+[Chris Barker](cb125.github.io), [Liz Camp](www.elizabethcamp.org), and Andy Egan
 
 ## Course Description
 
@@ -48,7 +48,7 @@ All participants must do the reading and post forum comment/question in advance 
 * February 16 @Rutgers. Non-focal: from dynamic pragmatics to commitment & convention  
   * Brandom 1983 [Asserting](Papers/brandom-1983-asserting.pdf)
   * Rescorla, M. 2009. [Assertion and its Constitutive Norms](Papers/rescorla-assertion.pdf). *Philosophy and Phenomenological Research* 79: 98–130.
-  * EC Insinuation
+  * Camp 2018 [Insinuation, common ground, and the conversational record](http://www.elisabethcamp.org/Papers/Camp.Insinuation.pdf)
 * February 23 @NYU. Compositionality: explanatory ambit of semantics, in connection and distinction to pragmatics and psychology (minds and modules)
 	?? 
 
