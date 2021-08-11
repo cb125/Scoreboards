@@ -47,7 +47,7 @@ All participants must do the reading and post forum comment/question in advance 
   * Austin 1979 [1956] [Performative Utterances](Papers/austin-performative-utterances.pdf)
 * February 16 @Rutgers. Non-focal: from dynamic pragmatics to commitment & convention  
   * Brandom 1983 [Asserting](Papers/brandom-1983-asserting.pdf)
-  * Rescorla, M. 2009. [Assertion and its Constitutive Norms](Papers/rescorla-assertion). Philosophy and Phenomenological Research, 79: 98–130.
+  * Rescorla, M. 2009. [Assertion and its Constitutive Norms](Papers/rescorla-assertion.pdf). Philosophy and Phenomenological Research, 79: 98–130.
   * EC Insinuation
 * February 23 @NYU. Compositionality: explanatory ambit of semantics, in connection and distinction to pragmatics and psychology (minds and modules)
 	?? 
