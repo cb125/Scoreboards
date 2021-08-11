@@ -57,7 +57,7 @@ All participants must do the reading and post forum comment/question in advance 
   * Plunkett and Sundell 2013 [Disagreement and the semantics of normative and evaluative terms](Papers/plunkett-sundell-2013-disagreement-and-the-semantics-of-normative-and-evaluative.pdf)
 * March 9 @NYU. Two-dimensionalism for non-declaratives
   * Background: Roberts 2012 [1996] [Information Structure: Towards an integrated formal theory of pragmatics](https://semprag.org/article/view/sp.5.6)
-  * Yalcin 2013 [Bayesian expressivism](Papers/yalcin-2013-bayesian-expressivism.pdf)
+  * Yalcin 2012 [Bayesian expressivism](Papers/yalcin-2012-bayesian-expressivism.pdf)
 
 ## March 16: SPRING BREAK
 
