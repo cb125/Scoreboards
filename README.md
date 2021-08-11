@@ -52,10 +52,11 @@ All participants must do the reading and post forum comment/question in advance 
 * February 23 @NYU. Compositionality: explanatory ambit of semantics, in connection and distinction to pragmatics and psychology (minds and modules)
   * Lewis 2014 [Do we need dynamic semantics?](Papers/lewis-2014-do-we-need-dynamic-semantics.pdf)
 
-* March 2 @Rutgers. Two-dimensionalism: quantification over coordinates
+* March 2 @Rutgers. Two-dimensionalism for declaratives: quantification over coordinates
   * Barker 2002 [The dynamics of vagueness](Papers/barker-2002-dynamics-of-vagueness.pdf) [read only the first 10 pages]
   * Plunkett and Sundell 2013 [Disagreement and the semantics of normative and evaluative terms](Papers/plunkett-sundell-2013-disagreement-and-the-semantics-of-normative-and-evaluative.pdf)
-* March 9 @NYU.
+* March 9 @NYU. Two-dimensionalism for non-declaratives
+  * Background: Roberts 2012 [1996] [Information Structure: Towards an integrated formal theory of pragmatics](https://semprag.org/article/view/sp.5.6)
 
 ## March 16: SPRING BREAK
 
