@@ -61,14 +61,16 @@ All participants must do the reading and post forum comment/question in advance 
 
 ## March 16: SPRING BREAK
 
-* March 23 @Rutgers.
+* March 23 @Rutgers. Social dynamics with/in language
+  * Mcgowan [Conversational Exercitives: Something Else We do with Our Words](https://link.springer.com/article/10.1023/B:LING.0000010803.47264.f0)
+  * Asher and McReady 2015 [Slides for their ESSLLI course on Cooperative and non-cooperative discourse](https://semanticsarchive.net/Archive/TFkYzYxZ/esslli2015-1.pdf)
 * March 30 @NYU.
-* April 6 @Rutgers.
-* April 13 @NYU.
-* April 20 @Rutgers.
-* April 27 @NYU.
+  * Burnett 2017 [Signalling Games, Sociolinguistic Variation and the Construction of Style](http://www.heatherburnett.net/uploads/9/6/6/0/96608942/burnett_smgs.pdf)
+* April 6 @Rutgers.  Non-negotiable update
+  * Murray 2014 [Varieties of update](https://github.com/cb125/Scoreboards/blob/main/Papers/murray-2014-varieties-of-update.pdf)
+* April 13 @NYU.  Ways of proceeding: retraction, undoing (and non-undoing)
+  * Langton 2018 [Blocking as counter-speech](https://oxford.universitypressscholarship.com/view/10.1093/oso/9780198738831.001.0001/oso-9780198738831-chapter-6)
+  * MacFarlane 2014 [*Assessment Sensitivity*](https://www.johnmacfarlane.net/reltruth.pdf) [chapter 5ish]
+* April 20 @Rutgers. Riptides week 1
+* April 27 @NYU. Riptides week 2
 * May 4 @NYU (Project discussions)
-
-(Liz here: It seems like the most straightforward way to organize the rest of the course would be to allocate 3 (or in one case 2) meetings to each unit. But part of what is cool is how the topics intertwine; maybe some other ordering principle would flow better. Maybe we work on general topics for a while and then assign sub-topics and weeks?  I’ve prodded all the various comments and thoughts and possible readings that used to be below into our 4 themes -- sorry if I bullied one of your points out of existence or into inappropriate relevance; please reinstate as you see fit!) 
-
-
