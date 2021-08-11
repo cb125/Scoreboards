@@ -34,7 +34,7 @@ All participants must do the reading and post forum comment/question in advance 
 
 **Unit 1: Themes**
 * January 26 @NYU. Conversations as updates in possibilities
-  * Readings: Stalnaker “Assertion”, Lewis “Scorekeeping…”, Ch1 of Stalnaker *Context*
+  * Readings: Stalnaker 1978 [Assertion](Papers/stalnaker-assertion.pdf), Lewis 1979 [Scorekeeping](lewis-scorekeeping.pdf), Stalnaker 2014 [Chapter 1 of *Context*](Papers/stalnaker-2014-context-ch1.pdf)
 * February 2 @Rutgers. Flatness; from instrumentalism to psychological realism. 
   * Readings: AE & TS manifesto
   * Perry 1998 [Cognitive significance and new theories of reference](Papers/perry-1998-cognitive-significance.pdf)
