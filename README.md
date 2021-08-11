@@ -43,7 +43,7 @@ All participants must do the reading and post forum comment/question in advance 
 * February 9 @NYU. Non-truth: 1) expressives: from informationalism to ecumenical psychologism. 2) Performatives: from psychology to speech acts 
   * Background: Gibbard 1990 [Wise choices, apt feelings](https://www.hup.harvard.edu/catalog.php?isbn=9780674953789) Harvard
   * Yalcin 2011 [Nonfactualism about epistemic modality](Papers/yalcin-2011-nonfactualism.pdf)
-  * Yalcin 2012 [Bayesian expressivism](Papers/yalcin-2012-bayesian-expressivism.pdf)
+
   * Austin 1979 [1956] [Performative Utterances](Papers/austin-performative-utterances.pdf)
 * February 16 @Rutgers. Non-focal: from dynamic pragmatics to commitment & convention  
   * Brandom 1983 [Asserting](Papers/brandom-1983-asserting.pdf)
@@ -57,6 +57,7 @@ All participants must do the reading and post forum comment/question in advance 
   * Plunkett and Sundell 2013 [Disagreement and the semantics of normative and evaluative terms](Papers/plunkett-sundell-2013-disagreement-and-the-semantics-of-normative-and-evaluative.pdf)
 * March 9 @NYU. Two-dimensionalism for non-declaratives
   * Background: Roberts 2012 [1996] [Information Structure: Towards an integrated formal theory of pragmatics](https://semprag.org/article/view/sp.5.6)
+  * Yalcin 2013 [Bayesian expressivism](Papers/yalcin-2013-bayesian-expressivism.pdf)
 
 ## March 16: SPRING BREAK
 
