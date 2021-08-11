@@ -46,7 +46,7 @@ All participants must do the reading and post forum comment/question in advance 
   * Yalcin 2012 [Bayesian expressivism](Papers/yalcin-2012-bayesian-expressivism.pdf)
   * Austin 1979 [1956] [Performative Utterances](Papers/austin-performative-utterances.pdf)
 * February 16 @Rutgers. Non-focal: from dynamic pragmatics to commitment & convention  
-  * Readings: Brandom: “Assertion” 
+  * Brandom 1983 [Asserting](Papers/brandom-1983-asserting.pdf)
   * (Rescorla/MacFarlane)
   * EC Insinuation
 * February 23 @NYU. Compositionality: explanatory ambit of semantics, in connection and distinction to pragmatics and psychology (minds and modules)
