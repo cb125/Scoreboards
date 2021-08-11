@@ -35,7 +35,7 @@ All participants must do the reading and post forum comment/question in advance 
 **Unit 1: Themes**
 * January 26 @NYU. Conversations as updates in possibilities
   * Readings: Stalnaker 1978 [Assertion](Papers/stalnaker-assertion.pdf)
-  * Lewis 1979 [Scorekeeping](Papers/lewis-scorekeeping.pdf)
+  * D. Lewis 1979 [Scorekeeping](Papers/lewis-scorekeeping.pdf)
   * Stalnaker 2014 [Chapter 1 of *Context*](Papers/stalnaker-2014-context-ch1.pdf)
 * February 2 @Rutgers. Flatness; from instrumentalism to psychological realism. 
   * Readings: AE & TS manifesto
@@ -50,7 +50,7 @@ All participants must do the reading and post forum comment/question in advance 
   * Rescorla, M. 2009. [Assertion and its Constitutive Norms](Papers/rescorla-assertion.pdf). *Philosophy and Phenomenological Research* 79: 98–130.
   * Camp 2018 [Insinuation, common ground, and the conversational record](http://www.elisabethcamp.org/Papers/Camp.Insinuation.pdf)
 * February 23 @NYU. Compositionality: explanatory ambit of semantics, in connection and distinction to pragmatics and psychology (minds and modules)
-	?? 
+  * Lewis 2014 [Do we need dynamic semantics?](Papers/lewis-2014-do-we-need-dynamic-semantics.pdf)
 
 * March 2 @Rutgers.
 * March 9 @NYU.
