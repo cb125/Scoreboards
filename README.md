@@ -4,17 +4,22 @@ Chris Barker, Liz Camp, and Andy Egan
 
 ## Course Description
 
-Attractions of flatness: instrumentalist informational imperialism in its purest form: we posit contents as context sets in order to model and predict evolution of conversations. More fine-grained distinctions are mere notational devices. No imputed correspondence for context sets to independent reality, either a) objective metaphysical entity or b) participants’ psychological states.  
+"Flatness": that the content of utterances are simply sets of worlds, rather than something more dynamic or more complex.
+
+Attractions of flatness: flatness embodies instrumentalist informational imperialism in its purest form.  We posit contents as context sets in order to model and predict evolution of conversations. More fine-grained distinctions are mere notational devices. No imputed correspondence for context sets to independent reality, either a) objective metaphysical entity or b) participants’ psychological states. 
+
 The flat picture is initially theoretically compelling because parsimonious and unifying. How satisfying is it? Motivations for complexifying: 
-Not all updates alter which possibilities are in the context set; 
-Not all updates have the same conversational status;
-Not all updates are fixed by composition on conventional meaning 
-Explanatory relevance requires some kind of grounding, whether in actual psychological states or in constructed social structures.  
-	Which of these complexities should be modelled within a linguistic theory?  A semantic theory? Why does it matter?  Which linguistic ‘weeds’ does it affect? 
+
+* Not all updates alter which possibilities are in the context set
+* Not all updates have the same conversational status
+* Not all updates are fixed by composition on conventional meaning 
+* Explanatory relevance requires some kind of grounding, whether in actual psychological states or in constructed social structures. 
+ 
+Which of these complexities should be modelled within a linguistic theory?  A semantic theory? Why does it matter?  Which linguistic ‘weeds’ does it affect? 
 
 ## Course Expectations: 
-* All participants must do the reading and post forum comment/question in advance of class. The post must discuss something you genuinely don’t understand, and should be anchored in a specific part of the text. (Not a fancy counterexample or a general rant.)
-* **Zoom stance**: The course is about in-person interaction. That said, zoom is not out of the question, under certain limited circumstances.
+All participants must do the reading and post forum comment/question in advance of class. The post must discuss something you genuinely don’t understand, and should be anchored in a specific part of the text. (Not a fancy counterexample or a general rant.)
+**Zoom stance**: The course is about in-person interaction. That said, zoom is not out of the question, under certain limited circumstances.
 
 **Work**: 
 * Research option: 25 page response paper
@@ -22,15 +27,17 @@ Explanatory relevance requires some kind of grounding, whether in actual psychol
 * Auditors are welcome, and are expected to do the reading
 
 ## Course Schedule
-* January 19: @Rutgers. Intro 
-  Goals, themes, expectations, class dynamics (Zoom ok for this class)
+* January 19: @Rutgers. **Intro**
+  * Goals, themes, expectations, class dynamics (Zoom ok for this class)
+
+*Most or all of the readings are available [here](Papers)*
 
 **Unit 1: Themes**
 * January 26 @NYU. Conversations as updates in possibilities
-  * Readings: “Assertion”, “Scorekeeping…”, Ch1 of Context
+  * Readings: Stalnaker “Assertion”, Lewis “Scorekeeping…”, Ch1 of Stalnaker *Context*
 * February 2 @Rutgers. Flatness; from instrumentalism to psychological realism. 
   * Readings: AE & TS manifesto
-  * ?? Perry on smudged postcard 
+  * Perry, *Cognitive significance and new theories of reference*
 * February 9 @NYU. Non-truth: 1) expressives: from informationalism to ecumenical psychologism. 2) Performatives: from psychology to speech acts 
   * Readings: 
     * Gibbard: expressivism (Yalcin?),
