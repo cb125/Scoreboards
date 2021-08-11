@@ -1,6 +1,6 @@
 # Keeping track of conversations: Scoreboards, Semantics and Psychology
 
-[Chris Barker](cb125.github.io), [Liz Camp](www.elizabethcamp.org), and Andy Egan
+[Chris Barker](https://cb125.github.io), [Liz Camp](www.elisabethcamp.org), and Andy Egan
 
 ## Course Description
 
