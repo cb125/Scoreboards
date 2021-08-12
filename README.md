@@ -53,7 +53,7 @@ The course is sponsored jointly by the Philosophy department at Rutgers and the 
   * Camp 2018 [Insinuation, common ground, and the conversational record](http://www.elisabethcamp.org/Papers/Camp.Insinuation.pdf)
 * February 23 @NYU. Compositionality: explanatory ambit of semantics, in connection and distinction to pragmatics and psychology (minds and modules)
   * Lewis 2014 [Do we need dynamic semantics?](Papers/lewis-2014-do-we-need-dynamic-semantics.pdf)
-  * Roberts 2021 [Imparatives in a dynamic pragmatics](https://github.com/cb125/Scoreboards/blob/main/Papers/roberts-2021-imperatives-in-dynamic-pragmatics.pdf)
+  * Roberts 2021 [Imparatives in a dynamic pragmatics](Papers/roberts-2021-imperatives-in-dynamic-pragmatics.pdf)
 
 * March 2 @Rutgers. Two-dimensionalism for declaratives: quantification over coordinates
   * Barker 2002 [The dynamics of vagueness](Papers/barker-2002-dynamics-of-vagueness.pdf) [read only the first 10 pages]
