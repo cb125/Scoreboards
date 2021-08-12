@@ -45,7 +45,6 @@ The course is sponsored jointly by the Philosophy department at Rutgers and the 
   * Perry 1998 [Cognitive significance and new theories of reference](Papers/perry-1998-cognitive-significance.pdf)
 * February 9 @NYU. Non-truth: 1) expressives: from informationalism to ecumenical psychologism. 2) Performatives: from psychology to speech acts 
   * Background: Gibbard 1990 [Wise choices, apt feelings](https://www.hup.harvard.edu/catalog.php?isbn=9780674953789) Harvard
-  * Yalcin 2011 [Nonfactualism about epistemic modality](Papers/yalcin-2011-nonfactualism.pdf)
 
   * Austin 1979 [1956] [Performative Utterances](Papers/austin-performative-utterances.pdf)
 * February 16 @Rutgers. Non-focal: from dynamic pragmatics to commitment & convention  
@@ -61,6 +60,8 @@ The course is sponsored jointly by the Philosophy department at Rutgers and the 
 * March 9 @NYU. Two-dimensionalism for non-declaratives
   * Background: Roberts 2012 [1996] [Information Structure: Towards an integrated formal theory of pragmatics](https://semprag.org/article/view/sp.5.6)
   * Yalcin 2012 [Bayesian expressivism](Papers/yalcin-2012-bayesian-expressivism.pdf)
+  * Yalcin 2011 [Nonfactualism about epistemic modality](Papers/yalcin-2011-nonfactualism.pdf)
+
 
 ## March 16: SPRING BREAK
 
