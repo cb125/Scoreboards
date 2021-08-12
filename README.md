@@ -27,10 +27,13 @@ All participants must do the reading and post forum comment/question in advance 
 * Auditors are welcome, and are expected to do the reading
 
 ## Course Schedule
+
+The course is sponsored jointly by the Philosophy department at Rutgers and the Linguistics department at NYU.  When at NYU, the sessions will take place in room 103 at 10 Washington Place (the Linguistics building), from 11:00 -- 1:45 on Wednesdays.  When at Rutgers, the sessions will take place ...
+
 * January 19: @Rutgers. **Intro**
   * Goals, themes, expectations, class dynamics (Zoom ok for this class)
 
-*Most or all of the readings are available [here](Papers)*
+*Many of the readings are available [here](Papers)*
 
 **Unit 1: Themes**
 * January 26 @NYU. Conversations as updates in possibilities
