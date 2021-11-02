@@ -4,16 +4,20 @@
 
 ## Course Description
 
-"Flatness": that the content of utterances are simply sets of worlds, rather than something more dynamic or more complex.
+In this course we'll be concerned with questions about what kinds of theoretical resources we need in order to characterize states of conversations, and ways in which states of conversations evolve in response to various actions (especially utterances) by participants in the conversation.
 
-Attractions of flatness: flatness embodies instrumentalist informational imperialism in its purest form.  We posit contents as context sets in order to model and predict evolution of conversations. More fine-grained distinctions are mere notational devices. No imputed correspondence for context sets to independent reality, either a) objective metaphysical entity or b) participants’ psychological states. 
+One theme will be the attractions and limitations of "flat" models, according to which all we need is *information*, and in particular information that can be represented with a set of possible worlds. (Rather than something more dynamic or more complex.)
 
-The flat picture is initially theoretically compelling because parsimonious and unifying. How satisfying is it? Motivations for complexifying: 
+Another theme will be the relation(s) between the objects that we use to characterize conversational states and linguistic meanings and the psychological states of participants, speakers, and hearers.
 
-* Not all updates alter which possibilities are in the context set
-* Not all updates have the same conversational status
-* Not all updates are fixed by composition on conventional meaning 
-* Explanatory relevance requires some kind of grounding, whether in actual psychological states or in constructed social structures. 
+Another theme will be questions about what line of work semantic theories are in - which phenomena are they properly accountable to, which phenomena should we be trying to model with semantic theories, and why?
+
+Some more specific questions and problems we'll look at:
+
+* Updates that don't alter which possibilities are in the context set - trouble for flat, information-centric views?
+* Variations in the conversational status of different kinds of updates
+* Updates that aren't fixed by composition on conventional meaning 
+* What kinds of connections between theory and... something else (psychological states of speakers? of hearers? something more complicated?)... grounds the explanatory relevance of linguistic theories?  
  
 Which of these complexities should be modelled within a linguistic theory?  A semantic theory? Why does it matter?  Which linguistic ‘weeds’ does it affect? 
 
