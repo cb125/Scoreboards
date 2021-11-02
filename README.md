@@ -32,7 +32,7 @@ All participants must do the reading and post forum comment/question in advance 
 
 ## Course Schedule
 
-The course is sponsored jointly by the Philosophy department at Rutgers and the Linguistics department at NYU.  When at NYU, the sessions will take place in room 103 at 10 Washington Place (the Linguistics building), from 11:00 -- 1:45 on Wednesdays.  When at Rutgers, the sessions will take place ...
+The course is sponsored jointly by the Philosophy department at Rutgers and the Linguistics department at NYU.  When at NYU, the sessions will take place in room 103 at 10 Washington Place (the Linguistics building), from 11:00 -- 1:45 on Wednesdays.  When at Rutgers, the sessions will take place in the philosophy department seminar room, on the 5th floor of 106 Somerset St in New Brunswick.
 
 * January 19: @Rutgers. **Intro**
   * Goals, themes, expectations, class dynamics (Zoom ok for this class)
