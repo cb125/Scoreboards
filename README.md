@@ -62,6 +62,7 @@ The schedule below is rough and provisional.  Readings, topics, and timing are s
   * Lewis 2014 [Do we need dynamic semantics?](Papers/lewis-2014-do-we-need-dynamic-semantics.pdf)
   * Roberts 2021 [Imparatives in a dynamic pragmatics](Papers/roberts-2021-imperatives-in-dynamic-pragmatics.pdf)
 
+**Unit 2: Thematic Implementations**
 * March 2 @Rutgers. Two-dimensionalism for declaratives: quantification over coordinates
   * Barker 2002 [The dynamics of vagueness](Papers/barker-2002-dynamics-of-vagueness.pdf) [read only the first 10 pages]
   * Plunkett and Sundell 2013 [Disagreement and the semantics of normative and evaluative terms](Papers/plunkett-sundell-2013-disagreement-and-the-semantics-of-normative-and-evaluative.pdf)
@@ -76,7 +77,7 @@ The schedule below is rough and provisional.  Readings, topics, and timing are s
 * March 23 @Rutgers. Social dynamics with/in language
   * Mcgowan [Conversational Exercitives: Something Else We do with Our Words](https://link.springer.com/article/10.1023/B:LING.0000010803.47264.f0)
   * Asher and McReady 2015 [Slides for their ESSLLI course on Cooperative and non-cooperative discourse](https://semanticsarchive.net/Archive/TFkYzYxZ/esslli2015-1.pdf)
-* March 30 @NYU.
+* March 30 @NYU. Information at the margins of langauge
   * Burnett 2017 [Signalling Games, Sociolinguistic Variation and the Construction of Style](http://www.heatherburnett.net/uploads/9/6/6/0/96608942/burnett_smgs.pdf)
 * April 6 @Rutgers.  Non-negotiable update
   * Murray 2014 [Varieties of update](https://github.com/cb125/Scoreboards/blob/main/Papers/murray-2014-varieties-of-update.pdf)
