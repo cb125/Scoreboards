@@ -50,14 +50,14 @@ The schedule below is rough and provisional.  Readings, topics, and timing are s
 * February 2 @Rutgers. Flatness; from instrumentalism to psychological realism. 
   * Readings: AE & TS manifesto
   * Perry 1998 [Cognitive significance and new theories of reference](Papers/perry-1998-cognitive-significance.pdf)
-* February 9 @NYU. Non-truth: 1) expressives: from informationalism to ecumenical psychologism. 2) Performatives: from psychology to speech acts 
+* February 9 @NYU. Non-truth: 1) Expressives: from informationalism to ecumenical psychologism. 2) Performatives: from psychology to speech acts 
   * Background: Gibbard 1990 [Wise choices, apt feelings](https://www.hup.harvard.edu/catalog.php?isbn=9780674953789) Harvard
   * Austin 1979 [1956] [Performative Utterances](Papers/austin-performative-utterances.pdf)
 * February 16 @Rutgers. Non-focal: from dynamic pragmatics to commitment & convention  
   * Brandom 1983 [Asserting](Papers/brandom-1983-asserting.pdf)
   * Rescorla, M. 2009. [Assertion and its Constitutive Norms](Papers/rescorla-assertion.pdf). *Philosophy and Phenomenological Research* 79: 98–130.
   * Camp 2018 [Insinuation, common ground, and the conversational record](http://www.elisabethcamp.org/Papers/Camp.Insinuation.pdf)
-* February 23 @NYU. Compositionality: explanatory ambit of semantics, in connection and distinction to pragmatics and psychology (minds and modules)
+* February 23 @NYU. Compositionality: the explanatory ambit of semantics, in connection and distinction to pragmatics and psychology (minds and modules)
   * Lewis 2014 [Do we need dynamic semantics?](Papers/lewis-2014-do-we-need-dynamic-semantics.pdf)
   * Roberts 2021 [Imparatives in a dynamic pragmatics](Papers/roberts-2021-imperatives-in-dynamic-pragmatics.pdf)
 
