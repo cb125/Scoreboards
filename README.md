@@ -42,7 +42,7 @@ The schedule below is rough and provisional.  Readings, topics, and timing are s
 
 *Many of the readings are available [here](Papers)*
 
-**Unit 1: Themes**
+**Unit 1: Thematic Introductions**
 * January 26 @NYU. Conversations as updates in possibilities
   * Readings: Stalnaker 1978 [Assertion](Papers/stalnaker-assertion.pdf)
   * D. Lewis 1979 [Scorekeeping](Papers/lewis-scorekeeping.pdf)
