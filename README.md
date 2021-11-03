@@ -26,13 +26,13 @@ All participants must do the reading and post a comment/question on the class fo
 **Zoom stance**: The course is about in-person interaction. That said, zoom is not out of the question, under certain limited circumstances.
 
 **Work**: 
-* Research option: 25 page response paper
-* Non-research option: 6 page focussed point or squib
-* Auditors are welcome, and are expected to do the reading
+* Research option: 25 page response paper.
+* Non-research option: 6 page focussed point or squib.
+* Auditors are welcome, and are expected to do the reading and post comment/questions. 
 
 ## Course Schedule
 
-The course is sponsored jointly by the Philosophy department at Rutgers and the Linguistics department at NYU.  We will meet from 11:00 to 1:45 on Wednesdays, alternating between NYU, where we'll meet in room 103 at 10 Washington Place (the Linguistics building) and Rutgers, where we'll meet in the philosophy department seminar room, on the 5th floor of 106 Somerset St in New Brunswick.
+The course is sponsored jointly by the Philosophy department at Rutgers New Brunswick and the Linguistics department at NYU.  We will meet from 11:00 to 1:45 on Wednesdays, alternating between NYU, where we'll meet in room 103 at 10 Washington Place (the Linguistics building) and Rutgers, where we'll meet in the seminar room on the 5th floor of 106 Somerset Street (in the philosophy department).
 
 The schedule below is rough and provisional.  Readings, topics, and timing are subject to evolution; but we hope to approximate something like the below. 
 
