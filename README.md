@@ -15,14 +15,15 @@ Another theme will be questions about what line of work semantic theories are in
 Some more specific questions and problems we'll look at:
 
 * Updates that don't alter which possibilities are in the context set - trouble for flat, information-centric views?
-* Variations in the conversational status of different kinds of updates
-* Updates that aren't fixed by composition on conventional meaning 
+* Variations in the conversational status of different kinds of updates.
+* Updates that aren't fixed by composition on conventional meaning. 
 * What kinds of connections between theory and... something else (psychological states of speakers? of hearers? something more complicated?)... grounds the explanatory relevance of linguistic theories?  
  
 Which of these complexities should be modelled within a linguistic theory?  A semantic theory? Why does it matter?  Which linguistic ‘weeds’ does it affect? 
 
 ## Course Expectations: 
 All participants must do the reading and post forum comment/question in advance of class. The post must discuss something you genuinely don’t understand, and should be anchored in a specific part of the text. (Not a fancy counterexample or a general rant.)
+
 **Zoom stance**: The course is about in-person interaction. That said, zoom is not out of the question, under certain limited circumstances.
 
 **Work**: 
@@ -32,7 +33,7 @@ All participants must do the reading and post forum comment/question in advance 
 
 ## Course Schedule
 
-The course is sponsored jointly by the Philosophy department at Rutgers and the Linguistics department at NYU.  When at NYU, the sessions will take place in room 103 at 10 Washington Place (the Linguistics building), from 11:00 -- 1:45 on Wednesdays.  When at Rutgers, the sessions will take place in the philosophy department seminar room, on the 5th floor of 106 Somerset St in New Brunswick.
+The course is sponsored jointly by the Philosophy department at Rutgers and the Linguistics department at NYU.  We will meet from 11:00 -- 1:45 on Wednesdays, alternating between NYU, where we'll meet in room 103 at 10 Washington Place (the Linguistics building) and Rutgers, where we'll meet in the philosophy department seminar room, on the 5th floor of 106 Somerset St in New Brunswick.
 
 * January 19: @Rutgers. **Intro**
   * Goals, themes, expectations, class dynamics (Zoom ok for this class)
