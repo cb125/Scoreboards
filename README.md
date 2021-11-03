@@ -71,8 +71,7 @@ The schedule below is rough and provisional.  Readings, topics, and timing are s
   * Yalcin 2012 [Bayesian expressivism](Papers/yalcin-2012-bayesian-expressivism.pdf)
   * Yalcin 2011 [Nonfactualism about epistemic modality](Papers/yalcin-2011-nonfactualism.pdf)
 
-
-## March 16: SPRING BREAK
+**March 16: SPRING BREAK
 
 * March 23 @Rutgers. Social dynamics with/in language
   * Mcgowan [Conversational Exercitives: Something Else We do with Our Words](https://link.springer.com/article/10.1023/B:LING.0000010803.47264.f0)
