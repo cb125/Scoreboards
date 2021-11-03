@@ -10,16 +10,15 @@ One theme will be the attractions and limitations of "flat" models, according to
 
 Another theme will be the relation(s) between the objects that we use to characterize conversational states and linguistic meanings and the psychological states of participants, speakers, and hearers.
 
-Another theme will be questions about what line of work semantic theories are in - which phenomena are they properly accountable to, which phenomena should we be trying to model with semantic theories, and why?
+Another theme will be questions about what line of work semantic theories are in: which phenomena are they properly accountable to? Which phenomena should we be trying to model with semantic theories? Why?
 
 Some more specific questions and problems we'll look at:
 
-* Updates that don't alter which possibilities are in the context set - trouble for flat, information-centric views?
+* Updates that don't alter which possibilities are in the context set.
 * Variations in the conversational status of different kinds of updates.
 * Updates that aren't fixed by composition on conventional meaning. 
-* What kinds of connections between theory and... something else (psychological states of speakers? of hearers? something more complicated?)... grounds the explanatory relevance of linguistic theories?  
+* What kinds of connections between theory and... something else (psychological states of speakers? of hearers? something more complicated?)... ground the scope and explanatory relevance of linguistic theories? Semantic theories?  Which details of those theories do they affect? 
  
-Which of these complexities should be modelled within a linguistic theory?  A semantic theory? Why does it matter?  Which linguistic ‘weeds’ does it affect? 
 
 ## Course Expectations 
 All participants must do the reading and post forum comment/question in advance of class. The post must discuss something you genuinely don’t understand, and should be anchored in a specific part of the text. (Not a fancy counterexample or a general rant.)
