@@ -21,7 +21,7 @@ Some more specific questions and problems we'll look at:
  
 
 ## Course Expectations 
-All participants must do the reading and post forum comment/question in advance of class. The post must discuss something you genuinely don’t understand, and should be anchored in a specific part of the text. (Not a fancy counterexample or a general rant.)
+All participants must do the reading and post a comment/question on the class forum in advance of the class meeeting. The post must discuss something you genuinely don’t understand, and should be anchored in a specific part of the text. (Not a fancy counterexample or a general rant.)
 
 **Zoom stance**: The course is about in-person interaction. That said, zoom is not out of the question, under certain limited circumstances.
 
