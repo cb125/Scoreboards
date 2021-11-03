@@ -83,4 +83,4 @@ The schedule below is rough and provisional.  Readings, topics, and timing are s
   * MacFarlane 2014 [*Assessment Sensitivity*](https://www.johnmacfarlane.net/reltruth.pdf) [chapter 5ish]
 * April 20 @Rutgers. Riptides week 1
 * April 27 @NYU. Riptides week 2
-* May 4 @NYU (Project discussions)
+* May 4 @NYU.  Presentations and discussion of course projects
