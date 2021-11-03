@@ -52,7 +52,6 @@ The schedule below is rough and provisional.  Readings, topics, and timing are s
   * Perry 1998 [Cognitive significance and new theories of reference](Papers/perry-1998-cognitive-significance.pdf)
 * February 9 @NYU. Non-truth: 1) expressives: from informationalism to ecumenical psychologism. 2) Performatives: from psychology to speech acts 
   * Background: Gibbard 1990 [Wise choices, apt feelings](https://www.hup.harvard.edu/catalog.php?isbn=9780674953789) Harvard
-
   * Austin 1979 [1956] [Performative Utterances](Papers/austin-performative-utterances.pdf)
 * February 16 @Rutgers. Non-focal: from dynamic pragmatics to commitment & convention  
   * Brandom 1983 [Asserting](Papers/brandom-1983-asserting.pdf)
