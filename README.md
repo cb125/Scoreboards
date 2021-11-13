@@ -23,7 +23,10 @@ Some more specific questions and problems we'll look at:
 ## Course Expectations 
 All participants must do the reading and post a comment/question on the class forum in advance of the class meeeting. The post must discuss something you genuinely don’t understand, and should be anchored in a specific part of the text. (Not a fancy counterexample or a general rant.)
 
-**Zoom stance**: The course is about in-person interaction. That said, zoom is not out of the question, under certain limited circumstances.
+## Course Location
+The course is sponsored jointly by the Philosophy department at Rutgers New Brunswick and the Linguistics department at NYU.  We will meet from 11:00 to 1:45 on Wednesdays, alternating between NYU, where we'll meet in room 103 at 10 Washington Place (the Linguistics building) and Rutgers, where we'll meet in the seminar room on the 5th floor of 106 Somerset Street (in the philosophy department).  Both universities require vaccination for attendance, and require participants (registered or not) to complete forms verifying compliance. 
+
+**Zoom stance**: We strongly prefer in-person conversation, and hope and expect that participants will attend class physically when possible.  That said, we recognize that some people will find it challenging to migrate between campuses.  Please talk to us in advance to discuss virtual arrangements. 
 
 **Work**: 
 * Research option: 25 page response paper.
@@ -31,9 +34,6 @@ All participants must do the reading and post a comment/question on the class fo
 * Auditors are welcome, and are expected to do the reading and post comment/questions. 
 
 ## Course Schedule
-
-The course is sponsored jointly by the Philosophy department at Rutgers New Brunswick and the Linguistics department at NYU.  We will meet from 11:00 to 1:45 on Wednesdays, alternating between NYU, where we'll meet in room 103 at 10 Washington Place (the Linguistics building) and Rutgers, where we'll meet in the seminar room on the 5th floor of 106 Somerset Street (in the philosophy department).
-
 The schedule below is rough and provisional.  Readings, topics, and timing are subject to evolution; but we hope to approximate something like the below. 
 
 * January 19: @Rutgers. **Intro**
