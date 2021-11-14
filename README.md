@@ -42,6 +42,7 @@ The schedule below is rough and provisional.  Readings, topics, and timing are s
 *Many of the readings are available [here](Papers)*
 
 **Unit 1: Thematic Introductions**
+
 * January 26 @NYU. **Conversations as updates in possibilities**
   * Readings: Stalnaker 1978 [Assertion](Papers/stalnaker-assertion.pdf)
   * D. Lewis 1979 [Scorekeeping](Papers/lewis-scorekeeping.pdf)
@@ -61,6 +62,7 @@ The schedule below is rough and provisional.  Readings, topics, and timing are s
   * Roberts 2021 [Imparatives in a dynamic pragmatics](Papers/roberts-2021-imperatives-in-dynamic-pragmatics.pdf)
 
 **Unit 2: Thematic Implementations**
+
 * March 2 @Rutgers. **Two-dimensionalism for declaratives: quantification over coordinates**
   * Barker 2002 [The dynamics of vagueness](Papers/barker-2002-dynamics-of-vagueness.pdf) [read only the first 10 pages]
   * Plunkett and Sundell 2013 [Disagreement and the semantics of normative and evaluative terms](Papers/plunkett-sundell-2013-disagreement-and-the-semantics-of-normative-and-evaluative.pdf)
