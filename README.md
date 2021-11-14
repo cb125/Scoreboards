@@ -29,6 +29,7 @@ The course is sponsored jointly by the Philosophy department at Rutgers New Brun
 **Zoom stance**: We strongly prefer in-person conversation, and hope and expect that participants will attend class physically when possible.  That said, we recognize that some people will find it challenging to migrate between campuses.  Please talk to us in advance to discuss virtual arrangements. 
 
 **Work**: 
+
 * Research option: 25 page response paper.
 * Non-research option: 6 page focussed point or squib.
 * Auditors are welcome, and are expected to do the reading and post comment/questions. 
