@@ -2,7 +2,7 @@
 
 [Chris Barker](https://cb125.github.io), [Liz Camp](https://www.elisabethcamp.org), and [Andy Egan](https://www.andyegan.net/)
 
-***Omicron update*** 19 December.  We continue to look forward to having in-person interactions that add value to the discussion.  However, given the current state of the pandemic, we recognize that some participants, for a variety of reasons, will have to participate via zoom.  We expect that people who are local for the relevant session will participate in person as much as they can.  We'll continue to adjust as events unfold.
+* ***Omicron update*** 19 December.  *We continue to look forward to having in-person interactions that add value to the discussion.  However, given the current state of the pandemic, we recognize that some participants, for a variety of reasons, will have to participate via zoom.  We expect that people who are local for the relevant session will participate in person as much as they can.  We'll continue to adjust as events unfold.*
 
 ## Course Description
 
