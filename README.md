@@ -2,6 +2,8 @@
 
 [Chris Barker](https://cb125.github.io), [Liz Camp](https://www.elisabethcamp.org), and [Andy Egan](https://www.andyegan.net/)
 
+***Omicron update*** 19 December.  We continue to look forward to having in-person interactions that add value to the discussion.  However, given the current state of the pandemic, we recognize that some participants, for a variety of reasons, will have to participate via zoom.  We expect that people who are local for the relevant session will participate in person as much as they can.  We'll continue to adjust as events unfold.
+
 ## Course Description
 
 In this course we'll be concerned with questions about what kinds of theoretical resources we need in order to characterize states of conversations, and ways in which states of conversations evolve in response to various actions (especially utterances) by participants in the conversation.
