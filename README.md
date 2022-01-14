@@ -39,14 +39,14 @@ The course is sponsored jointly by the Philosophy department at Rutgers New Brun
 ## Course Schedule
 The schedule below is rough and provisional.  Readings, topics, and timing are subject to evolution; but we hope to approximate something like the below. 
 
-* January 19: @Rutgers. **Intro**
+* January 19: Zoom only. **Intro**
   * Goals, themes, expectations, class dynamics (Zoom ok for this class)
 
 *Many of the readings are available [here](Papers)*
 
 **Unit 1: Thematic Introductions**
 
-* January 26 @NYU. **Conversations as updates in possibilities**
+* January 26 Zoom only. **Conversations as updates in possibilities**
   * Readings: Stalnaker 1978 [Assertion](Papers/stalnaker-assertion.pdf)
   * D. Lewis 1979 [Scorekeeping](Papers/lewis-scorekeeping.pdf)
   * Stalnaker 2014 [Chapter 1 of *Context*](Papers/stalnaker-2014-context-ch1.pdf)
