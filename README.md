@@ -2,7 +2,7 @@
 
 [Chris Barker](https://cb125.github.io), [Liz Camp](https://www.elisabethcamp.org), and [Andy Egan](https://www.andyegan.net/)
 
-* ***Omicron update*** 14 January.  *Respecting Rutgers' policy, the first two weeks of the seminar will be conducted purely remotely. If you would like to participate, in order for us to be able to provide you with access to the zoom meetings, ***you must send your first and last name and email address to Professor Camp as soon as possible***, which will enable us to add you to Rutger's Canvas instruction platform.  We continue to look forward to having in-person interactions during the seminar sessions.  However, we recognize that some people, for a variety of reasons, will have to participate via zoom.  We expect that people who are local for the relevant session will participate in person as much as they reasonably and safely can.  We'll continue to adjust as events unfold.*
+* ***Omicron update*** 14 January.  *As per Rutgers policy, the first two weeks of the seminar will be conducted purely remotely. If you would like to participate, in order for us to be able to provide you with access to the zoom meetings, ***you must send your first and last name and email address to Professor Camp as soon as possible***, which will enable us to add you to Rutger's Canvas instruction platform.  We continue to look forward to having in-person interactions during the seminar sessions.  However, we recognize that some people, for a variety of reasons, will have to participate via zoom.  We expect that people who are local for the relevant session will participate in person as much as they reasonably and safely can.  We'll continue to adjust as events unfold.*
 
 ## Course Description
 
